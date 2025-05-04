@@ -12,7 +12,7 @@
     --bg-color: #000000e0;
     --second-bg-color: #000000;
     --text-color: rgb(231, 221, 231);
-    --main-color: #ff00b3c2;
+    --main-color: #48b133c9;
 }
 html{
     font-size: 60%;
@@ -203,7 +203,7 @@ span{
     box-shadow: 0 0 25px var(--main-color);
     border-radius: 4rem;
     font-size: 1.6rem;
-    color: black;
+    color: rgb(31, 20, 20);
     border: 2px solid transparent;
     letter-spacing: 0.1rem;
     font-weight: 600;
@@ -301,7 +301,7 @@ span{
 }
 .timeline-content h3{
     font-size: 20px;
-    color: #ff00c8e0;
+    color: #30a0b4e0;
     margin: 0 0 10px;
     font-weight: 600;
 }
@@ -325,7 +325,7 @@ span{
 @media (hover: hover){
     .services{
         background: var(--bg-color);
-        color: #5c595b;
+        color: #ebd4e3;
     }
     .services h2{
         margin-bottom: 5rem;
@@ -566,7 +566,7 @@ span{
     100% { opacity: 1; }
 }
 .paper-link {
-    color: #f8b2e3c2; /* Define a cor rosa para o link */
+    color: #33ccb2c2; /* Define a cor rosa para o link */
     text-decoration: none; /* Remove o sublinhado do link, se desejado */
     font-weight: bold; /* Opcional: deixa o link em negrito */
     transition: color 0.3s ease-in-out; /* Suave transição ao passar o mouse */
@@ -652,7 +652,7 @@ section {
 
     .mobile-title {
         font-size: 5rem; /* Aumentado para 5rem */
-        color: #ff00b3c2; /* Cor principal */
+        color: #9de73bc2; /* Cor principal */
         text-align: center; /* Centraliza o título */
         margin-bottom: 0.5rem; /* Espaçamento */
         text-decoration: none; /* Remove o sublinhado do link */
@@ -660,7 +660,7 @@ section {
     }
 
     .mobile-title a {
-        color: #ff00b3c2 !important; /* Define a cor do link */
+        color: #66d10fc2 !important; /* Define a cor do link */
         text-decoration: none; /* Remove o sublinhado do link */
     }
 
@@ -675,7 +675,7 @@ section {
         font-size: 4rem; /* Aumentado para 4rem */
         text-align: center; /* Centraliza o texto */
         margin-top: 1rem; /* Espaçamento acima */
-        color: #ff00b3c2 !important; /* Cor do texto */
+        color: #3fbe18c2 !important; /* Cor do texto */
         text-decoration: none; /* Remove sublinhado do link */
         pointer-events: auto; /* Habilita eventos para o link */
         display: block;
