@@ -584,7 +584,7 @@ section {
 
 @media screen and (max-width: 767px) {
     .home {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), var(--second-bg-color)), url('hexa.png'); 
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), var(--second-bg-color)), url('wall.png'); 
         background-size: cover; /* Faz a imagem se ajustar ao container sem cortar */
         background-position: center; /* Centraliza a imagem */
         background-repeat: no-repeat; /* Evita a repetição da imagem */
