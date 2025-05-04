@@ -1,4 +1,4 @@
-const skills = ["Python", "Machine Learning", "SQL", "Power BI", "Data Visualization", "Statistics"];
+const skills = ["Python", "Machine Learning", "SQL", "Linux", "Data Visualization", "Statistics", "R", "Artificial Intelligence"];
 const typedText = document.getElementById('typed-text');
 let skillIndex = 0;
 let charIndex = 0;
